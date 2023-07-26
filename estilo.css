@@ -1,0 +1,10 @@
+h1, h2, h3 {  
+    color:black;
+}
+body{ 
+    background-color: rgba(0, 217, 255, 0.733);
+}
+li {
+    color:cornflowerblue; 
+    font-family: Arial, Helvetica, sans-serif
+}
